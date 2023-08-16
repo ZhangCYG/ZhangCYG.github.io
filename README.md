@@ -1,2 +1,2 @@
 # Personal Website
-https://zcyg.github.io/
+https://ZhangCYG.github.io/
